@@ -22,6 +22,7 @@
   <li><a href='http://behradx.ir/'>بهراد خادم حقیقیان</a></li>
   <li><a href='https://saharshaker.com/'>سحر شاکر</a></li>
   <li><a href='https://virgool.io/@edrism'>ادریس میرویسی</a></li>
+  <li><a href='https://shahinkalantari.com/blog/'>شاهین کلانتری</a></li>  
 </ul>
 
 
