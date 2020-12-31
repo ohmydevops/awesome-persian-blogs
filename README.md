@@ -19,6 +19,7 @@
   <li><a href='http://oorah.ir/'>سعید رمضانی</a></li>
   <li><a href='https://ashkanam.ir/blog/'>اشکان رحمانی</a></li>
   <li><a href='https://mahshid.me/blog/'>مهشید حاجیانی</a></li>
+  <li><a href='http://behradx.ir/'>بهراد خادم حقیقیان</a></li>
 </ul>
 
 
