@@ -6,7 +6,7 @@
 
 <a href='https://www.piqsels.com/en/public-domain-photo-srzid'><img src='https://raw.githubusercontent.com/amirbagh75/Awesome-personal-persian-blogs/main/bandw-typewriter-typing-vintage.jpeg?v=1' alt='عکس ماشین تایپ'></a>
 
-<h3>وبلاگ‌های افراد حوزه تکنولوژی</h3>
+<h3>وبلاگ‌های افراد</h3>
 <ul>
    <li><a href='https://memoryleaks.ir/'>یاشار شاهین زاده</a></li>
   <li><a href='https://jadi.net/'>جادی میرمیرانی</a></li>
@@ -14,13 +14,11 @@
   <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
   <li><a href='https://virgool.io/@kian1024/'>کیان</a></li>
   <li><a href='https://pullrequest.ir/'>پول ریکوئست (وبلاگ گروهی)</a></li>
+  <li><a href='https://jimmyheller.com/'>جیمی هلر</a></li>
+  <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
+  <li><a href='http://oorah.ir/'>سعید رمضانی</a></li>
 </ul>
 
-<h3>وبلاگ‌های افراد حوزه مباحث انسانی</h3>
-<ul>
-  <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
-    <li><a href='http://oorah.ir/'>سعید رمضانی</a></li>
-</ul>
 
 <h3>وبلاگ‌های فنی شرکت‌ها</h3>
 <ul>
