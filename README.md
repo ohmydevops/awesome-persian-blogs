@@ -8,6 +8,7 @@
 
 <h3>وبلاگ‌های افراد حوزه تکنولوژی</h3>
 <ul>
+   <li><a href='https://memoryleaks.ir/'>یاشار شاهین زاده</a></li>
   <li><a href='https://jadi.net/'>جادی میرمیرانی</a></li>
   <li><a href='https://hamed.blog/'>حامد سعیدی</a></li>
   <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
@@ -18,6 +19,7 @@
 <h3>وبلاگ‌های افراد حوزه مباحث انسانی</h3>
 <ul>
   <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
+    <li><a href='http://oorah.ir/'>سعید رمضانی</a></li>
 </ul>
 
 <h3>وبلاگ‌های فنی شرکت‌ها</h3>
