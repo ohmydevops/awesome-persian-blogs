@@ -9,7 +9,7 @@
 <ul>
   <li><a href='https://jadi.net/'>جادی میرمیرانی</a></li>
   <li><a href='https://hamed.blog/'>حامد سعیدی</a></li>
-  <li><a href='http://www.shabanali.com//'>محمدرضا شعبانعلی</a></li>
+  <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
 </ul>
 
 </div>
