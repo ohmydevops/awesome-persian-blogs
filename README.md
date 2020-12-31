@@ -17,6 +17,7 @@
   <li><a href='https://jimmyheller.com/'>جیمی هلر</a></li>
   <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
   <li><a href='http://oorah.ir/'>سعید رمضانی</a></li>
+  <li><a href='https://ashkanam.ir/blog/'>اشکان رحمانی</a></li>
 </ul>
 
 
