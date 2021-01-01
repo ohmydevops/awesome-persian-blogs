@@ -8,6 +8,7 @@
 
 <h3>وبلاگ‌های افراد</h3>
 <ul>
+   <li><a href='https://sadra.blog//'>صدرا علی‌آبادی/a></li>
    <li><a href='https://memoryleaks.ir/'>یاشار شاهین زاده</a></li>
   <li><a href='https://jadi.net/'>جادی میرمیرانی</a></li>
   <li><a href='https://hamed.blog/'>حامد سعیدی</a></li>
