@@ -38,6 +38,7 @@
   <li><a href='https://tech.cafebazaar.ir/'>وبلاگ فنی شرکت کافه‌بازار</a></li>
   <li><a href='https://tech.alibaba.ir/'>وبلاگ فنی شرکت علی بابا</a></li>
   <li><a href='https://blog.sahab.ir/'>وبلاگ فنی شرکت سحاب پرداز</a></li>
+  <li><a href='https://engineering.yektanet.com/'>وبلاگ فنی شرکت یکتانت</a></li>
 </ul>
 
 
