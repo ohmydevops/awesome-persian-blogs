@@ -9,6 +9,7 @@
 <h3>وبلاگ‌های افراد</h3>
 <ul>
    <li><a href='https://sadra.blog/'>صدرا علی‌آبادی</a></li>
+   <li><a href='http://aminaramesh.ir/'>امین آرامش</a></li>
    <li><a href='https://kakavand.me/'>امین کاکاوند</a></li>
    <li><a href='http://blog.madani.pro/'>میثم مدنی</a></li>
    <li><a href='https://memoryleaks.ir/'>یاشار شاهین زاده</a></li>
