@@ -15,6 +15,7 @@
    <li><a href='http://behnamfallah.ir/'>بهنام فلاح</a></li>
    <li><a href='http://blog.madani.pro/'>میثم مدنی</a></li>
    <li><a href='https://memoryleaks.ir/'>یاشار شاهین زاده</a></li>
+  <li><a href='http://www.leilaa.ir/'>جایی برای نوشتن (لیلا)</a></li>
   <li><a href='https://jadi.net/'>جادی میرمیرانی</a></li>
   <li><a href='https://abbas.oveissi.ir/'>عباس اویسی</a></li>
   <li><a href='https://hamed.blog/'>حامد سعیدی</a></li>
