@@ -8,6 +8,7 @@
 
 <h3>وبلاگ‌های افراد</h3>
 <ul>
+    <li><a href='http://mrshabanali.com'>محمدرضا شعبانعلی</a></li>
    <li><a href='https://sadra.blog/'>صدرا علی‌آبادی</a></li>
    <li><a href='http://aminaramesh.ir/'>امین آرامش</a></li>
    <li><a href='https://kakavand.me/'>امین کاکاوند</a></li>
@@ -16,7 +17,6 @@
   <li><a href='https://jadi.net/'>جادی میرمیرانی</a></li>
   <li><a href='https://abbas.oveissi.ir/'>عباس اویسی</a></li>
   <li><a href='https://hamed.blog/'>حامد سعیدی</a></li>
-  <li><a href='http://www.shabanali.com/'>محمدرضا شعبانعلی</a></li>
   <li><a href='https://virgool.io/@kian1024/'>کیان</a></li>
   <li><a href='https://pullrequest.ir/'>پول ریکوئست (وبلاگ گروهی)</a></li>
   <li><a href='https://jimmyheller.com/'>جیمی هلر</a></li>
