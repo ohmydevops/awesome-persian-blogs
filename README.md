@@ -41,7 +41,8 @@
   <li><a href='https://navid.kashani.ir/'>نوید کاشانی</a></li>
   <li><a href='https://rasool.info/'>رسول احمدپناه</a></li>
   <li><a href='https://virgool.io/@sedighi'>امیر صدیقی</a></li> 
-  <li><a href='https://virgool.io/@Pakseresht'>سحر پاک‌سرشت</a></li> 
+  <li><a href='https://virgool.io/@Pakseresht'>سحر پاک‌سرشت</a></li>
+  <li><a href='http://fzero.rubi.gd/'>فرود</a></li>   
 </ul>
 
 
