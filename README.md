@@ -6,7 +6,7 @@
 
 <a href='https://www.piqsels.com/en/public-domain-photo-srzid'><img src='https://raw.githubusercontent.com/amirbagh75/Awesome-personal-persian-blogs/main/bandw-typewriter-typing-vintage.jpeg?v=1' alt='عکس ماشین تایپ'></a>
 
-<h3>وبلاگ‌های افراد (بدون دسته‌بندی خاصی <a href='https://github.com/amirbagh75/awesome-persian-blogs/issues/3'>#3</a>)</h3>
+<h3>وبلاگ افراد (بدون دسته‌بندی خاصی <a href='https://github.com/amirbagh75/awesome-persian-blogs/issues/3'>#3</a>)</h3>
 <ul>
    <li><a href='http://mrshabanali.com'>محمدرضا شعبانعلی</a></li>
    <li><a href='https://sadra.blog/'>صدرا علی‌آبادی</a></li>
@@ -47,7 +47,7 @@
 </ul>
 
 
-<h3>وبلاگ‌های فنی شرکت‌ها (با محوریت IT و تکنولوژی)</h3>
+<h3>وبلاگ فنی شرکت‌ها (با محوریت IT و تکنولوژی)</h3>
 <ul>
   <li><a href='https://tech.cafebazaar.ir/'>وبلاگ فنی شرکت کافه‌بازار</a></li>
   <li><a href='https://tech.alibaba.ir/'>وبلاگ فنی شرکت علی بابا</a></li>
