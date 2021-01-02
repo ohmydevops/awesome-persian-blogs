@@ -49,13 +49,18 @@
 </ul>
 
 
-<h3>وبلاگ فنی شرکت‌ها (با محوریت IT و تکنولوژی)</h3>
+<h3>وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)</h3>
 <ul>
   <li><a href='https://tech.cafebazaar.ir/'>وبلاگ فنی شرکت کافه‌بازار</a></li>
   <li><a href='https://tech.alibaba.ir/'>وبلاگ فنی شرکت علی بابا</a></li>
   <li><a href='https://blog.sahab.ir/'>وبلاگ فنی شرکت سحاب پرداز</a></li>
   <li><a href='https://engineering.yektanet.com/'>وبلاگ فنی شرکت یکتانت</a></li>
   <li><a href='https://virgool.io/virgool'>وبلاگ فنی شرکت ویرگول</a></li>  
+</ul>
+
+<h3>وبلاگ شرکت‌ها (با محوریت مسائل روزمره شرکت )</h3>
+<ul>
+  <li><a href='https://software.dotin.ir/'>وبلاگ شرکت داتین</a></li> 
 </ul>
 
 
