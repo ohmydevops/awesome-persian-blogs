@@ -47,6 +47,7 @@
   <li><a href='https://virgool.io/@itshaadi'>هادی اعظمی</a></li>  
   <li><a href='http://gozareha.com/'>علی نعمتی شهاب</a></li>
   <li><a href='https://kakavand.me/'>امین کاکاوند</a></li>
+  <li><a href='http://asadiweb.ir/'>مرتضی اسدی</a></li>
 </ul>
 
 
