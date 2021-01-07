@@ -57,7 +57,8 @@
   <li><a href='https://tech.alibaba.ir/'>وبلاگ فنی شرکت علی بابا</a></li>
   <li><a href='https://blog.sahab.ir/'>وبلاگ فنی شرکت سحاب پرداز</a></li>
   <li><a href='https://engineering.yektanet.com/'>وبلاگ فنی شرکت یکتانت</a></li>
-  <li><a href='https://virgool.io/virgool'>وبلاگ فنی شرکت ویرگول</a></li>  
+  <li><a href='https://virgool.io/virgool'>وبلاگ فنی شرکت ویرگول</a></li>
+  <li><a href='https://virgool.io/baleacademy'>وبلاگ فنی پیام‌رسان بله</a></li>  
 </ul>
 
 <h3>وبلاگ شرکت‌ها (با محوریت مسائل روزمره شرکت )</h3>
