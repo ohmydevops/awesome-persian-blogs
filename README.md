@@ -4,7 +4,8 @@
 
 این مخزن مکانی برای جمع آوری لیستی از فعال‌ترین وبلاگ‌های فارسی زبان در حوزه های مختلف می باشد.
 
-<a href='https://www.piqsels.com/en/public-domain-photo-srzid'><img src='https://raw.githubusercontent.com/amirbagh75/Awesome-personal-persian-blogs/main/bandw-typewriter-typing-vintage.jpeg?v=1' alt='عکس ماشین تایپ'></a>
+<a href='https://dribbble.com/shots/5192092-Ferdowsi'><img src='https://cdn.dribbble.com/users/1982708/screenshots/5192092/ferdowsi_clipart_complete_2x_4x.png?compress=1&resize=1000x750' alt='حکیم ابوالقاسم فردوسی'></a>
+<sub>این تصویر زیبا از فردوسی رو حسام اسمی توی دریبل گذاشته بود و من هم اینجا کپی کردم. اگر روی تصویر کلیک کنید به صفحه طراح تصویر منتقل میشوید.</sub>
 
 <h3>وبلاگ افراد (بدون دسته‌بندی خاصی <a href='https://github.com/amirbagh75/awesome-persian-blogs/issues/3'>#3</a>)</h3>
 <ul>
