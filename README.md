@@ -50,6 +50,7 @@
   <li><a href='https://kakavand.me/'>امین کاکاوند</a></li>
   <li><a href='http://asadiweb.ir/'>مرتضی اسدی</a></li>
   <li><a href='https://blog.mahdyar.me'>مهدیار</a></li>
+  <li><a href='https://molaei.org/'>علی مولایی</a></li>
 </ul>
 
 
