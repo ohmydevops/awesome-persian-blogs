@@ -5,7 +5,9 @@
 این مخزن مکانی برای جمع آوری لیستی از فعال‌ترین وبلاگ‌های فارسی زبان در حوزه های مختلف می باشد.
 
 [![حکیم ابوالقاسم فردوسی](https://cdn.dribbble.com/users/1982708/screenshots/5192092/ferdowsi_clipart_complete_2x_4x.png?compress=1&resize=1000x750)](https://dribbble.com/shots/5192092-Ferdowsi)
+<sub>
 این تصویر زیبا از فردوسی رو حسام اسمی توی دریبل گذاشته بود و من هم اینجا کپی کردم. اگر روی تصویر کلیک کنید به صفحه طراح تصویر منتقل میشوید.
+</sub>
 
 ### وبلاگ افراد (بدون دسته‌بندی خاصی [#3](https://github.com/amirbagh75/awesome-persian-blogs/issues/3))
 - [محمدرضا شعبانعلی](http://mrshabanali.com)
