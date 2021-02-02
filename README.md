@@ -64,7 +64,7 @@
 - [وبلاگ فنی شرکت یکتانت](https://engineering.yektanet.com/)
 - [وبلاگ فنی شرکت ویرگول](https://virgool.io/virgool)
 - [وبلاگ فنی پیام‌رسان بله](https://virgool.io/baleacademy)
-- [وبلاگ فنی مسیریاب بلد](https://tech.balad.ir/)
+- [وبلاگ فنی مسیریاب نشان](https://neshan.blog/)
 
 ### وبلاگ شرکت‌ها (با محوریت مسائل روزمره شرکت)
 - [وبلاگ شرکت داتین](https://software.dotin.ir/)
