@@ -56,6 +56,7 @@
 - [کرم‌های کامپیوتر(وبلاگ گروهی فاروق کریمی زاده و بهنام سیم‌جو)](https://pcworms.blog.ir)
 - [مانوئل اوهانجانیانس](http://manuelohan.com/)
 - [ابوالفضل فتاحی](https://abolfazl.me)
+- [وحید دامن‌افشان](https://abolfazl.me)
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
@@ -64,7 +65,7 @@
 - [وبلاگ فنی شرکت یکتانت](https://engineering.yektanet.com/)
 - [وبلاگ فنی شرکت ویرگول](https://virgool.io/virgool)
 - [وبلاگ فنی پیام‌رسان بله](https://virgool.io/baleacademy)
-- [وبلاگ فنی مسیریاب نشان](https://neshan.blog/)
+- [وبلاگ فنی مسیریاب نشان](https://panevis.ir/)
 
 ### وبلاگ شرکت‌ها (با محوریت مسائل روزمره شرکت)
 - [وبلاگ شرکت داتین](https://software.dotin.ir/)
