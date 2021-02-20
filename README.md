@@ -58,6 +58,7 @@
 - [ابوالفضل فتاحی](https://abolfazl.me)
 - [وحید دامن‌افشان](https://panevis.ir/)
 - [فرانک بابا‌پور](https://faranakbabapoor.ir/)
+- [آراز غلامی](https://arazgholami.com/)
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
