@@ -59,7 +59,8 @@
 - [وحید دامن‌افشان](https://panevis.ir/)
 - [فرانک بابا‌پور](https://faranakbabapoor.ir/)
 - [آراز غلامی](https://arazgholami.com/)
-- [آمیرزا](https://mirzaproject.ir/) 
+- [آمیرزا](https://mirzaproject.ir/)
+- [پریسا حسینی](http://firstrole.ir/) 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
