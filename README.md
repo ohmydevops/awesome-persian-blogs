@@ -71,6 +71,7 @@
 - [وبلاگ فنی شرکت ویرگول](https://virgool.io/virgool)
 - [وبلاگ فنی پیام‌رسان بله](https://virgool.io/baleacademy)
 - [وبلاگ فنی مسیریاب نشان](https://panevis.ir/)
+- [وبلاگ دیزاینرهای اپلیکیشن دیوار](https://design.divar.ir/)
 
 ### وبلاگ شرکت‌ها (با محوریت مسائل روزمره شرکت)
 - [وبلاگ شرکت داتین](https://software.dotin.ir/)
