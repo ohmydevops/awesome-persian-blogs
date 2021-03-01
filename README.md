@@ -61,7 +61,8 @@
 - [آراز غلامی](https://arazgholami.com/)
 - [آمیرزا](https://mirzaproject.ir/)
 - [پریسا حسینی](http://firstrole.ir/)
-- [سعید بستان دوست](https://bostandoust.ir/) 
+- [سعید بستان دوست](https://bostandoust.ir/)
+- [امیر مطهری](https://iamamir.ir/)
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
