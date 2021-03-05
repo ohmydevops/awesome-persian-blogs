@@ -63,6 +63,7 @@
 - [پریسا حسینی](http://firstrole.ir/)
 - [سعید بستان دوست](https://bostandoust.ir/)
 - [امیر مطهری](https://iamamir.ir/)
+- [محمدرضا زمانی](http://mrzamani.com)
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
