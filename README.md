@@ -64,6 +64,7 @@
 - [سعید بستان دوست](https://bostandoust.ir/)
 - [امیر مطهری](https://iamamir.ir/)
 - [محمدرضا زمانی](http://mrzamani.com)
+- [هومن مزین](https://virgool.io/@Hooman.mazin)
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
