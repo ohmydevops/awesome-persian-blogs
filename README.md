@@ -64,6 +64,7 @@
 - [امیر مطهری](https://iamamir.ir/)
 - [محمدرضا زمانی](http://mrzamani.com)
 - [هومن مزین](https://virgool.io/@Hooman.mazin)
+- [زهرا نجاری (نردیشمی)](https://nerdishme.ir/)
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
