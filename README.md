@@ -48,7 +48,6 @@
 - [یحیی صیاداربابی](http://theyahya.com/blog/)
 - [هادی اعظمی](https://virgool.io/@itshaadi)
 - [علی نعمتی شهاب](http://gozareha.com/)
-- [امین کاکاوند](https://kakavand.me/)
 - [مرتضی اسدی](http://asadiweb.ir/)
 - [مهدیار](https://blog.mahdyar.me)
 - [علی مولایی](https://molaei.org/)
