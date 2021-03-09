@@ -35,7 +35,7 @@
 - [مهدی ناصری](https://virgool.io/@mahdi)
 - [یاور مشیری‌فر](https://moshirfar.com/)
 - [سارا درهمی](http://saraderhami.com/)
-- [سعیده احمدزاده](http://saeedeh1981.blogfa.com/')
+- [سعیده احمدزاده](http://saeedeh1981.blogfa.com/)
 - [معصومه شیخ‌مرادی](http://sheikhmoradi.com/)
 - [احسان موسوی](http://econote.ir/)
 - [صابر راستی‌کردار](http://rastikerdar.blog.ir/)
