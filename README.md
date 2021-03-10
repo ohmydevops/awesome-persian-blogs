@@ -66,6 +66,7 @@
 - [هومن مزین](https://virgool.io/@Hooman.mazin)
 - [زهرا نجاری (نردیشمی)](https://nerdishme.ir/)
 - [ارشاد نیک‌خواه (سیزدهم)](https://sizdahom.com/) 
+- [یک روز جدید (شهرزاد)](http://1newday.ir) 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
 - [وبلاگ فنی شرکت کافه‌بازار](https://tech.cafebazaar.ir/)
