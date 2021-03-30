@@ -69,7 +69,8 @@
 - [یک روز جدید (شهرزاد)](http://1newday.ir) 
 - [مصطفی قائمی](http://qaemi.ir/) 
 - [فواد انصاری](http://foad-ansari.ir/) 
-- [امیر رشیدی](https://www.rashidi.io/) 
+- [امیر رشیدی](https://www.rashidi.io/)
+- [آرش حاتمی](https://arash-hatami.ir/)  
 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
