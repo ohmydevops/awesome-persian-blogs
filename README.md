@@ -52,7 +52,6 @@
 - [مهدیار](https://blog.mahdyar.me)
 - [علی مولایی](https://molaei.org/)
 - [عسل راد](http://asalrad.com/)
-- [کرم‌های کامپیوتر(وبلاگ گروهی فاروق کریمی زاده و بهنام سیم‌جو)](https://pcworms.blog.ir)
 - [مانوئل اوهانجانیانس](http://manuelohan.com/)
 - [ابوالفضل فتاحی](https://abolfazl.me)
 - [وحید دامن‌افشان](https://panevis.ir/)
