@@ -72,6 +72,7 @@
 - [آرش حاتمی](https://arash-hatami.ir/)  
 - [مرتضا حسینی](https://mindfs.com/) 
 - [ضیا صدر](https://www.ziyasadr.com/)   
+- [دیتانرد (سعید اسماعیلی)](https://datanerd.ir/)  
 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
@@ -82,7 +83,8 @@
 - [وبلاگ فنی شرکت ویرگول](https://virgool.io/virgool)
 - [وبلاگ فنی پیام‌رسان بله](https://virgool.io/baleacademy)
 - [وبلاگ فنی مسیریاب نشان](https://panevis.ir/)
-- [وبلاگ دیزاینرهای اپلیکیشن دیوار](https://design.divar.ir/)
+- [وبلاگ فنی شرکت دیوار](https://tech.divar.ir/)
+- [وبلاگ دیزاین شرکت دیوار](https://design.divar.ir/)
 - [وبلاگ ترجمیار با محوریت ترجمه مقالات علمی و تخصصی روز](https://blog.tarjomyar.ir)
 - [وبلاگ فنی شرکت آرپکو](https://arpco.co/fa/blog/)
 
