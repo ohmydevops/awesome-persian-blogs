@@ -83,7 +83,7 @@
 - [وبلاگ فنی پیام‌رسان بله](https://virgool.io/baleacademy)
 - [وبلاگ فنی مسیریاب نشان](https://panevis.ir/)
 - [وبلاگ فنی شرکت دیوار](https://tech.divar.ir/)
-- [وبلاگ دیزاینرهای اپلیکیشن دیوار](https://design.divar.ir/)
+- [وبلاگ دیزاین شرکت دیوار](https://design.divar.ir/)
 - [وبلاگ ترجمیار با محوریت ترجمه مقالات علمی و تخصصی روز](https://blog.tarjomyar.ir)
 - [وبلاگ فنی شرکت آرپکو](https://arpco.co/fa/blog/)
 
