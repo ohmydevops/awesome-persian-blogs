@@ -70,6 +70,7 @@
 - [فواد انصاری](http://foad-ansari.ir/) 
 - [امیر رشیدی](https://www.rashidi.io/)
 - [آرش حاتمی](https://arash-hatami.ir/)  
+- [مرتضا حسینی](https://mindfs.com/)  
 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
