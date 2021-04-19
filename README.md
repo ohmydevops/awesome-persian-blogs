@@ -72,7 +72,9 @@
 - [آرش حاتمی](https://arash-hatami.ir/)  
 - [مرتضا حسینی](https://mindfs.com/) 
 - [ضیا صدر](https://www.ziyasadr.com/)   
-- [دیتانرد (سعید اسماعیلی)](https://datanerd.ir/)  
+- [دیتانرد (سعید اسماعیلی)](https://datanerd.ir/) 
+- [گودزیلای وب (وبلاگ پیام صادری)](https://saderi.com/blog/)   
+- [واینسا برو جلو (وبلاگ نسرین قاسمی)](https://nastale.com/)
 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
