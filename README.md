@@ -77,7 +77,7 @@
 - [واینسا برو جلو (وبلاگ نسرین قاسمی)](https://nastale.com/)
 - [سجاد حیدری](https://heydaris.com/fa/blog/)
 - [ماتروشکا، سفرنامه‌های دانشجویی (کیوان کامبخش)](https://matrushka.ir/) 
-- [امیرحسین پای‌به‌راه](https://payberah.github.io/blog/) 
+- [امیرحسین پی‌براه](https://payberah.github.io/blog/) 
 
 
 ### وبلاگ شرکت‌ها (با محوریت IT و تکنولوژی)
