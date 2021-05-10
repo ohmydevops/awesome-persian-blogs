@@ -10,8 +10,6 @@
 </sub>
 
 ### وبلاگ افراد (بدون دسته‌بندی خاصی [#3](https://github.com/amirbagh75/awesome-persian-blogs/issues/3))
-- [(دیتانرد) سعید اسماعیلی](https://datanerd.ir/) 
-- [(ماتروشکا، سفرنامه‌های دانشجویی) کیوان کامبخش](https://matrushka.ir/) 
 - [آراز غلامی](https://arazgholami.com/)
 - [آرش حاتمی](https://arash-hatami.ir/)  
 - [آرش میلانی](https://arashmilani.com/persian/index)
@@ -40,6 +38,7 @@
 - [سجاد حیدری](https://heydaris.com/fa/blog/)
 - [سحر شاکر](https://saharshaker.com/)
 - [سحر پاک‌سرشت](https://virgool.io/@Pakseresht)
+- [سعید اسماعیلی (دیتانرد)](https://datanerd.ir/) 
 - [سعید بستان دوست](https://bostandoust.ir/)
 - [سعید رمضانی](http://oorah.ir/)
 - [سعیده احمدزاده](http://saeedeh1981.blogfa.com/)
@@ -74,6 +73,7 @@
 - [پریسا حسینی](http://firstrole.ir/)
 - [پیام صادری (گودزیلای وب)](https://saderi.com/blog/)   
 - [کیان](https://virgool.io/@kian1024/)
+- [کیوان کامبخش (ماتروشکا، سفرنامه‌های دانشجویی)](https://matrushka.ir/) 
 - [یاشار شاهین زاده](https://memoryleaks.ir/)
 - [یاور مشیری‌فر](https://moshirfar.com/)
 - [یحیی صیاداربابی](http://theyahya.com/blog/) 
