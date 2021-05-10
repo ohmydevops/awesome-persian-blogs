@@ -71,7 +71,6 @@
 - [واینسا برو جلو (وبلاگ نسرین قاسمی)](https://nastale.com/)
 - [وحید دامن‌افشان](https://panevis.ir/)
 - [پریسا حسینی](http://firstrole.ir/)
-- [پول ریکوئست (وبلاگ گروهی)](https://pullrequest.ir/)
 - [کیان](https://virgool.io/@kian1024/)
 - [گودزیلای وب (وبلاگ پیام صادری)](https://saderi.com/blog/)   
 - [یاشار شاهین زاده](https://memoryleaks.ir/)
