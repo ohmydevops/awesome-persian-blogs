@@ -9,7 +9,7 @@
 این تصویر زیبا از فردوسی رو حسام اسمی توی دریبل گذاشته بود و من هم اینجا کپی کردم. اگر روی تصویر کلیک کنید به صفحه طراح تصویر منتقل میشوید.
 </sub>
 
-### وبلاگ افراد (بدون دسته‌بندی خاصی [#3](https://github.com/amirbagh75/awesome-persian-blogs/issues/3))
+### لیست وبلاگ‌ها
 - [آراز غلامی](https://arazgholami.com/)
 - [آرش حاتمی](https://arash-hatami.ir/)  
 - [آرش میلانی](https://arashmilani.com/persian/index)
