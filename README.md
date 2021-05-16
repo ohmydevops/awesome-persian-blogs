@@ -38,7 +38,7 @@
 - [سجاد حیدری](https://heydaris.com/fa/blog/)
 - [سحر شاکر](https://saharshaker.com/)
 - [سحر پاک‌سرشت](https://virgool.io/@Pakseresht)
-- [سعید اسماعیلی (دیتانرد)](https://datanerd.ir/) 
+- [سعید اسماعیلی (دیتانرد)](https://datanerd.blog/fa/) 
 - [سعید بستان دوست](https://bostandoust.ir/)
 - [سعید رمضانی](http://oorah.ir/)
 - [سعیده احمدزاده](http://saeedeh1981.blogfa.com/)
