@@ -51,6 +51,7 @@
 - [عسل راد](http://asalrad.com/)
 - [علی مولایی](https://molaei.org/)
 - [علی نعمتی شهاب](http://gozareha.com/)
+- [علیرضا امیرصمیمی](http://amirsamimi.ir/)
 - [فرانک بابا‌پور](https://faranakbabapoor.ir/)
 - [فرود](http://fzero.rubi.gd/)
 - [فواد انصاری](http://foad-ansari.ir/) 
