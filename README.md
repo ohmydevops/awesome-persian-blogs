@@ -57,6 +57,7 @@
 - [مانوئل اوهانجانیانس](http://manuelohan.com/)
 - [محمدرضا زمانی](http://mrzamani.com)
 - [محمدرضا شعبانعلی](http://mrshabanali.com)
+- [محمّدرضا علی حسینی](https://blog.alihoseiny.ir/)
 - [مرتضا حسینی](https://mindfs.com/) 
 - [مرتضی اسدی](http://asadiweb.ir/)
 - [مصطفی قائمی](http://qaemi.ir/) 
