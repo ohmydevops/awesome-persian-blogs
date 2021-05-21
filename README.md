@@ -55,6 +55,7 @@
 - [فرود](http://fzero.rubi.gd/)
 - [فواد انصاری](http://foad-ansari.ir/) 
 - [مانوئل اوهانجانیانس](http://manuelohan.com/)
+- [محمدرضا حقیری](https://haghiri75.com/)
 - [محمدرضا زمانی](http://mrzamani.com)
 - [محمدرضا شعبانعلی](http://mrshabanali.com)
 - [محمّدرضا علی حسینی](https://blog.alihoseiny.ir/)
