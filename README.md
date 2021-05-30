@@ -20,6 +20,7 @@
 - [ارشاد نیک‌خواه (سیزدهم)](https://sizdahom.com/) 
 - [اشکان رحمانی](https://ashkanam.ir/blog/)
 - [امیر رشیدی](https://www.rashidi.io/)
+- [امیر شکری](https://ashokri.com)
 - [امیر صدیقی](https://virgool.io/@sedighi)
 - [امیر مطهری](https://iamamir.ir/)
 - [امیرحسین پی‌براه](https://payberah.github.io/blog/)
