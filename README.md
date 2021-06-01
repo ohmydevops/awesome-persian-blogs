@@ -33,6 +33,7 @@
 - [جایی برای نوشتن (لیلا)](http://www.leilaa.ir/)
 - [جیمی هلر](https://jimmyheller.com/)
 - [حامد سعیدی](https://hamed.blog/)
+- [حامد قدوسی](https://chaay.ghoddusi.com/)
 - [رسول احمدپناه](https://rasool.info/)
 - [زهرا نجاری (نردیشمی)](https://nerdishme.ir/)
 - [سارا درهمی](http://saraderhami.com/)
