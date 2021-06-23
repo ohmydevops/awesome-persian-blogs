@@ -16,6 +16,7 @@
 - [آمیرزا](https://mirzaproject.ir/)
 - [ابوالفضل فتاحی](https://abolfazl.me)
 - [احسان موسوی](http://econote.ir/)
+- [احمد خانی (سفرنوشت)](https://www.safarnevesht.com/)
 - [ادریس میرویسی](https://virgool.io/@edrism)
 - [ارشاد نیک‌خواه (سیزدهم)](https://sizdahom.com/) 
 - [اشکان رحمانی](https://ashkanam.ir/blog/)
