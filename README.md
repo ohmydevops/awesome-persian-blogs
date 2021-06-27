@@ -35,6 +35,7 @@
 - [جیمی هلر](https://jimmyheller.com/)
 - [حامد سعیدی](https://hamed.blog/)
 - [حامد قدوسی](https://chaay.ghoddusi.com/)
+- [حمید طهماسبی](https://dimaht.com/)
 - [رسول احمدپناه](https://rasool.info/)
 - [زهرا نجاری (نردیشمی)](https://nerdishme.ir/)
 - [سارا درهمی](http://saraderhami.com/)
