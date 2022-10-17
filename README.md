@@ -64,6 +64,7 @@
 - [محمدرضا زمانی](http://mrzamani.com)
 - [محمدرضا شعبانعلی](http://mrshabanali.com)
 - [محمّدرضا علی حسینی](https://blog.alihoseiny.ir/)
+- [محمّدجواد تاجیک](https://mjtajik.com/)
 - [مرتضا حسینی](https://mindfs.com/) 
 - [مرتضی اسدی](http://asadiweb.ir/)
 - [مصطفی قائمی](http://qaemi.ir/) 
